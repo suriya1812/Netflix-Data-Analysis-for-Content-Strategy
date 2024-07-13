@@ -9,8 +9,8 @@ Link: Dataset_link
 
 The dataset provided to you consists of a list of all the TV shows/movies available on Netflix:
 
-Show_id: Unique ID for every Movie / Tv Show \n
-Type: Identifier - A Movie or TV Show \n
+Show_id: Unique ID for every Movie / Tv Show "\n"
+Type: Identifier - A Movie or TV Show "\n"
 Title: Title of the Movie / Tv Show
 Director: Director of the Movie
 Cast: Actors involved in the movie/show
